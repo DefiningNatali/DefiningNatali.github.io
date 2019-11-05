@@ -1,0 +1,17 @@
+body{background-image: url(Imagesof_firstwebsite/original.gif);
+background-position: bottom;
+background-repeat: no-repeat;
+background-size: cover}
+div1{text-align: center}
+h2{font-size: 250}
+h2{color: #E6C6FF};
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+} 
+div2{text-align:center}
+h3{color: #E1F7F5}
+h3{font-size: 85}

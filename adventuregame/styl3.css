@@ -1,0 +1,17 @@
+body{background-color: #291130}
+.leftimage{
+    position: absolute;
+    width: 
+    
+}
+h1{color: firebrick;
+font-size: 500;
+text-align: center}
+h2{color: aliceblue;
+font-size: 175;
+text-align: center}
+.rightimage{
+    position: absolute;
+    right: -250;
+    
+}
